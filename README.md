@@ -28,7 +28,13 @@
 5. **Displaying Information**:
    - Structured the UI using Tailwind CSS for styling, ensuring a responsive layout.
    - Organized the ingredients list into a two-column format for better readability.
-
-7. **Testing**:
+     
+6. **Add the features**:
+   - Search the products by name or barcode
+   - Sorting the products
+   - Filter products by categories
+   - Add pagination using infinite scroll technique
+   
+8. **Testing**:
    - Thoroughly tested the application across different devices and screen sizes to ensure responsiveness and functionality.
 
